@@ -17,7 +17,6 @@
 | [Distributed average consensus](https://doi.org/10.1145/3593426) | Co-authored research with Dariusz R. Kowalski and Miguel A. Mosteiro, published in ACM Transactions on Parallel Computing (2023). |
 | [Shared browser windows](https://github.com/Alex-Kamenev/browser-window-shared-view-cube-rotation-animation) | A rotating cube whose animation and position are shared across browser windows. |
 | [New York weather analysis](https://github.com/Alex-Kamenev/Weather_Data_EDA_2015_2020) | Temperature and precipitation at five stations, with [related forecasting experiments](https://github.com/Alex-Kamenev/Weather_Data_Prediction_Models). |
-| [Processing sketches](https://github.com/Alex-Kamenev/Processing-Projects) | Interactive drawing, generative compositions, and animation experiments. |
 
 ### What I work with
 
@@ -32,3 +31,5 @@ Previously, I led software development in **UPS’s Advanced Technology Group**,
 ### Outside work
 
 I’m building personal projects in browser game design, local AI developer tools, interactive computer science learning, and creative video. I share the ideas while keeping private source and employer IP private. I also enjoy photography and music.
+
+Earlier learning work: [Processing sketches (2020)](https://github.com/Alex-Kamenev/Processing-Projects).
