@@ -2,6 +2,8 @@
 
 **Senior Software Engineer, Data @ OnTrac** · Data & AI Engineering on Google Cloud
 
+[Portfolio — systems & imagination](https://aleksandar-kamenev.pale-ibis-2091.chatgpt.site/) · [LinkedIn](https://www.linkedin.com/in/aleksandar-kamenev/) · [Research](https://doi.org/10.1145/3593426)
+
 I build the data pipelines, integrations, and AI systems that keep a delivery network moving: real-time logistics pipelines, monitoring at 20M+ events a day, and RAG assistants grounded in company knowledge.
 
 - 🔭 **Working on:** production data platforms and LLM applications (BigQuery, Airflow, Kafka, Cloud Run, Vertex AI)
@@ -21,3 +23,16 @@ I build the data pipelines, integrations, and AI systems that keep a delivery ne
 ### Background
 
 Previously Lead Software Developer in UPS's Advanced Technology Group, building a network digital twin with deck.gl map visualization, route optimization tools, and generative AI prototypes. MS in Computer Science, Pace University.
+
+### Selected public work
+
+| Project | What I explored |
+| --- | --- |
+| [Shared browser windows](https://github.com/Alex-Kamenev/browser-window-shared-view-cube-rotation-animation) | A rotating cube with animation and position shared across browser windows. |
+| [HarperDB React SDK experiments](https://github.com/Alex-Kamenev/harperdb-sdk-react) | Maintained copy of HarperDB’s React hook and example; original SDK by HarperDB. |
+| [New York weather analysis](https://github.com/Alex-Kamenev/Weather_Data_EDA_2015_2020) | Temperature and precipitation patterns at five stations, with related forecasting experiments. |
+| [Processing experiments](https://github.com/Alex-Kamenev/Processing-Projects) | Code as a sketchbook for visual ideas. |
+
+### Beyond the day job
+
+I also explore browser game design, local AI developer tools, interactive computer science learning, and creative video tools. These personal projects are works in progress; I share the ideas without publishing private source or employer IP. Outside the editor, I enjoy photography and music.
