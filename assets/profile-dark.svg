@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Aleksandar Kamenev — Data and AI engineering</title>
+  <desc id="desc">Software engineer at OnTrac, previously UPS. A network drawing connects data, software, and research.</desc>
+  <rect width="960" height="280" rx="18" fill="#161e1a"/>
+  <path d="M32 248H928" stroke="#697a6e" stroke-opacity=".35"/>
+  <g fill="#f0ece3" font-family="Segoe UI, Arial, sans-serif">
+    <text x="36" y="54" font-family="Consolas, monospace" font-size="12" letter-spacing="2.4">DATA / AI / SOFTWARE</text>
+    <text x="33" y="120" font-size="44" font-weight="650" letter-spacing="-1.7">Aleksandar Kamenev</text>
+    <text x="36" y="161" font-size="24">Data &amp; AI engineering</text>
+    <text x="36" y="213" font-size="14">OnTrac · previously UPS · MS Computer Science, Pace</text>
+  </g>
+  <g transform="translate(638 22)">
+    <path d="M112 5C202-3 280 47 283 125C286 193 236 227 148 227C67 227 1 206 5 137C9 65 30 12 112 5Z" fill="#d7f784"/>
+    <g fill="none" stroke="#18231e" stroke-opacity=".3" stroke-width="1.2">
+      <path d="M34 112 77 40 148 28 223 59 254 124 212 191 127 209 52 178 34 112 148 28 212 191 77 40 127 209 223 59 52 178 254 124 34 112Z"/>
+      <path d="M77 40 146 111 254 124M52 178 146 111 223 59M127 209 146 111 34 112M148 28 146 111 212 191"/>
+      <ellipse cx="146" cy="117" rx="106" ry="86" transform="rotate(-24 146 117)"/>
+    </g>
+    <g fill="#18231e">
+      <circle cx="34" cy="112" r="3"/><circle cx="77" cy="40" r="4"/><circle cx="148" cy="28" r="3"/><circle cx="223" cy="59" r="3"/><circle cx="254" cy="124" r="4"/><circle cx="212" cy="191" r="3"/><circle cx="127" cy="209" r="3"/><circle cx="52" cy="178" r="4"/><circle cx="146" cy="111" r="6"/>
+    </g>
+  </g>
+</svg>
