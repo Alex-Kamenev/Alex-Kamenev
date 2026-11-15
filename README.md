@@ -1,4 +1,4 @@
-<a href="https://aleksandar-kamenev.pale-ibis-2091.chatgpt.site/">
+<a href="https://alex-kamenev.github.io/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
     <img src="assets/profile-light.svg" alt="Aleksandar Kamenev — Data and AI engineering. OnTrac, previously UPS; MS Computer Science, Pace." width="100%">
@@ -7,7 +7,7 @@
 
 **Senior Software Engineer, Data at OnTrac.** I build data pipelines, integrations, and LLM applications on Google Cloud. My background spans logistics software, full-stack development, and distributed-systems research.
 
-**[Portfolio ↗](https://aleksandar-kamenev.pale-ibis-2091.chatgpt.site/) · [LinkedIn ↗](https://www.linkedin.com/in/aleksandar-kamenev/) · [Published research ↗](https://doi.org/10.1145/3593426)**
+**[Portfolio ↗](https://alex-kamenev.github.io/) · [LinkedIn ↗](https://www.linkedin.com/in/aleksandar-kamenev/) · [Published research ↗](https://doi.org/10.1145/3593426)**
 
 ### Work & contributions
 
