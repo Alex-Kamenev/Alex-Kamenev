@@ -9,14 +9,14 @@
 
 **[Portfolio ↗](https://alex-kamenev.github.io/) · [LinkedIn ↗](https://www.linkedin.com/in/aleksandar-kamenev/) · [Published research ↗](https://doi.org/10.1145/3593426)**
 
-### Work & contributions
+### Professional work, research & contributions
 
-| Work | My part |
+| Work | My role and contribution |
 | --- | --- |
-| [SlashDB React tooling](https://github.com/SlashDB/react-slashdb) | SDK organization and setup documentation, following a [JavaScript wrapper and React hook prototype](https://github.com/SlashDB/Slashbd_React_Projects/pull/1). Contributions to SlashDB’s open-source projects. |
-| [Distributed average consensus](https://doi.org/10.1145/3593426) | Co-authored research with Dariusz R. Kowalski and Miguel A. Mosteiro, published in ACM Transactions on Parallel Computing (2023). |
-| [Shared browser windows](https://github.com/Alex-Kamenev/browser-window-shared-view-cube-rotation-animation) | A rotating cube whose animation and position are shared across browser windows. |
-| [New York weather analysis](https://github.com/Alex-Kamenev/Weather_Data_EDA_2015_2020) | Temperature and precipitation at five stations, with [related forecasting experiments](https://github.com/Alex-Kamenev/Weather_Data_Prediction_Models). |
+| [Data platforms & AI — OnTrac](https://alex-kamenev.github.io/#data-ai) | Senior Software Engineer, Data. I build data pipelines, integrations, monitoring, and LLM applications for logistics on Google Cloud. |
+| [Logistics software — UPS](https://alex-kamenev.github.io/#ups) | Previously Lead Software Developer in the Advanced Technology Group. Work included a network digital twin, map visualization, route optimization tooling, and generative AI prototypes. |
+| [Distributed average consensus](https://doi.org/10.1145/3593426) | Co-authored by Aleksandar Kamenev, Dariusz R. Kowalski, and Miguel A. Mosteiro; published in ACM Transactions on Parallel Computing (2023). |
+| [SlashDB JavaScript & React tooling](https://github.com/SlashDB/react-slashdb) | Contributed [JavaScript data-access wrappers and React hooks](https://github.com/SlashDB/Slashbd_React_Projects/pull/1), then [organized the initial public React SDK package](https://github.com/SlashDB/react-slashdb/commit/46d972443224832517be9b788fba9d123391c62f) and wrote its setup guide. |
 
 ### What I work with
 
@@ -26,10 +26,6 @@
 | AI applications | RAG, Vertex AI, Gemini, LangChain, vector search |
 | Software & delivery | TypeScript, React, Node.js, FastAPI, Cloud Run, Docker, Terraform |
 
-Previously, I led software development in **UPS’s Advanced Technology Group**, working on network digital twins, geospatial visualization, route optimization tools, and generative AI prototypes. **MS in Computer Science, Pace University.**
+**MS in Computer Science, Pace University.**
 
-### Outside work
-
-I’m building personal projects in browser game design, local AI developer tools, interactive computer science learning, and creative video. I share the ideas while keeping private source and employer IP private. I also enjoy photography and music.
-
-Earlier learning work: [Processing sketches (2020)](https://github.com/Alex-Kamenev/Processing-Projects).
+Outside work, I enjoy photography, music, and personal software projects.
