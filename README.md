@@ -29,7 +29,7 @@ Previously Lead Software Developer in UPS's Advanced Technology Group, building 
 | Project | What I explored |
 | --- | --- |
 | [Shared browser windows](https://github.com/Alex-Kamenev/browser-window-shared-view-cube-rotation-animation) | A rotating cube with animation and position shared across browser windows. |
-| [HarperDB React SDK experiments](https://github.com/Alex-Kamenev/harperdb-sdk-react) | Maintained copy of HarperDB’s React hook and example; original SDK by HarperDB. |
+| [SlashDB React tooling](https://github.com/SlashDB/react-slashdb) | Contributed SDK organization and setup documentation, following a [JavaScript wrapper and React hook prototype](https://github.com/SlashDB/Slashbd_React_Projects/pull/1). Part of SlashDB’s open-source projects. |
 | [New York weather analysis](https://github.com/Alex-Kamenev/Weather_Data_EDA_2015_2020) | Temperature and precipitation patterns at five stations, with related forecasting experiments. |
 | [Processing experiments](https://github.com/Alex-Kamenev/Processing-Projects) | Code as a sketchbook for visual ideas. |
 
