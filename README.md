@@ -18,6 +18,14 @@
 | [Distributed average consensus](https://doi.org/10.1145/3593426) | Co-authored by Aleksandar Kamenev, Dariusz R. Kowalski, and Miguel A. Mosteiro; published in ACM Transactions on Parallel Computing (2023). |
 | [SlashDB JavaScript & React tooling](https://github.com/SlashDB/react-slashdb) | Contributed [JavaScript data-access wrappers and React hooks](https://github.com/SlashDB/Slashbd_React_Projects/pull/1), then [organized the initial public React SDK package](https://github.com/SlashDB/react-slashdb/commit/46d972443224832517be9b788fba9d123391c62f) and wrote its setup guide. |
 
+### Independent engineering
+
+| Project | Scope |
+| --- | --- |
+| [ATLAS research lab](https://github.com/Alex-Kamenev/atlas-research-lab) · [Case study](https://alex-kamenev.github.io/work/atlas/) | MIT Python research harness for synthetic learner-model experiments: established baselines, chronological replay and learner-level bootstrap evaluation. |
+| [Local developer platform](https://alex-kamenev.github.io/work/local-developer-platform/) · [MIT graph component](https://github.com/Alex-Kamenev/sqlite-codegraph) | Independent developer-tooling prototype centered on a persistent SQLite code graph. Validation covers the graph component, rather than the complete agent workflow. |
+| [Frontage](https://alex-kamenev.github.io/work/frontage/) · [MIT pure core](https://github.com/Alex-Kamenev/frontage-pure-core) | Independent backend prototype for content workflows, with pure gate, media-ingest and publication-decision components. Database and external-service integration remain outside the verified scope. |
+
 ### What I work with
 
 | Focus | Tools |
